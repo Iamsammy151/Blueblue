@@ -112,8 +112,8 @@ apt --fix-missing update && apt update && apt upgrade -y && apt install -y bzip2
    - IPv6                    : [OFF/ON]
    - Autoreboot Off          : [ON]
    - Autobackup Data         : [OFF]
-   - AutoKill Multi Login User
-   - Auto Delete Expired Account
+   - AutoKill Multi Login User:[ON]
+   - Auto Delete Expired Account:[ON]
    - Fully automatic script
    - VPS settings
    - Admin Control
